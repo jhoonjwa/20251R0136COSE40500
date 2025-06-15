@@ -8,6 +8,8 @@ from sentence_transformers import SentenceTransformer
 from sklearn.preprocessing import normalize
 import ot                                  # POT: Python Optimal Transport
 
+### use it well
+
 # ---------------- user data -------------------------------------------------
 import pandas as pd
 
